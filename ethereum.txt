@@ -1,0 +1,2 @@
+#ethereum is done with a proof of stake
+#By this ethereum we can create the dAPPS
